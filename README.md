@@ -1,7 +1,3 @@
-Siap. Ini **README.md** yang **clean, profesional, dan GitHub-ready**, selaras sama isi PPT & workflow lu. Tinggal copy–paste 👇
-
----
-
 # 🌦️ Weather Forecast & Temperature Prediction in the Philippines (2026)
 
 This project focuses on **weather data analysis and temperature forecasting in the Philippines**, leveraging historical daily weather data from **2020–2023** and machine learning models to generate **forward-looking temperature predictions for 2026**.
